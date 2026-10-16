@@ -169,6 +169,5 @@ Deployment to AWS is **not required** to run this project. If you want to deploy
 
 ## 👤 Author
 
-**Mohamed Kaif K.S**
-B.Sc. Computer Science student 
+**Mohamed Kaif K.S** 
 GitHub: [Kaif-077](https://github.com/Kaif-077)
